@@ -58,6 +58,9 @@ This screenshot shows the folder before running the script, where all file types
 
 **#After Sorting#**
 
+
+![After  Sorting](screenshots/After.png)
+
 This screenshot shows the folder after the script has been executed.
 Files are automatically organized into folders based on their file types.
 
@@ -99,6 +102,7 @@ Files are automatically organized into folders based on their file types.
 Tshedza Tshipuke
 
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
+
 
 
 
