@@ -16,16 +16,22 @@ This script automates the process by detecting file extensions and moving files 
 # 🛠️ Technologies Used
 
 -Python
+
 -os module (for file and folder handling)
+
 -shutil module (for moving files)
 
 
 # ⚙️ How the Script Works
 
 1)The script scans a target directory.
+
 2)It checks if folders for specific file types exist.
+
 3)If the folders do not exist, they are created automatically.
+
 4)Files are identified by their extensions.
+
 5)Files are moved into their corresponding folders.
 
 
@@ -67,8 +73,11 @@ Files are automatically organized into folders based on their file types.
 # 💡 What I Learned
 
 -How to automate file management using Python.
+
 -Working with directories and file paths.
+
 -Creating folders programmatically.
+
 =Using conditional logic to handle different file types.
 
 
@@ -76,7 +85,9 @@ Files are automatically organized into folders based on their file types.
 # 🚀 Future Improvements
 
 -Add support for more file types.
+
 -Handle duplicate filenames.
+
 -Allow the user to choose the directory dynamically.
 -Schedule automatic sorting
 
@@ -86,3 +97,4 @@ Files are automatically organized into folders based on their file types.
 Tshedza Tshipuke
 
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
+
