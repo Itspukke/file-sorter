@@ -96,6 +96,7 @@ Files are automatically organized into folders based on their file types.
 -Handle duplicate filenames.
 
 -Allow the user to choose the directory dynamically.
+
 -Schedule automatic sorting
 
 
@@ -104,6 +105,7 @@ Files are automatically organized into folders based on their file types.
 Tshedza Tshipuke
 
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
+
 
 
 
