@@ -50,10 +50,11 @@ The script currently sorts the following file types:
 
 # 🖼️ Screenshots
 
-**#Before Sorting#**
+
+![Before Sorting](screenshots/Before.png)
 
 This screenshot shows the folder before running the script, where all file types are mixed together.
-(screenshots/Before.png)
+
 
 **#After Sorting#**
 
@@ -98,5 +99,6 @@ Files are automatically organized into folders based on their file types.
 Tshedza Tshipuke
 
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
+
 
 
