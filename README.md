@@ -70,7 +70,7 @@ Files are automatically organized into folders based on their file types.
 
 # ▶️ How to Run the Project
 
-1)Clone the repository:git clone https://github.com/your-username/file-sorter.git
+1)Clone the repository:git clone https://github.com/Itspukke/file-sorter.git
 
 2)Open the script and update the folder path if needed:path = r"C:/Users/your-username/Downloads/FileSorter/"
 
@@ -104,6 +104,7 @@ Files are automatically organized into folders based on their file types.
 Tshedza Tshipuke
 
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
+
 
 
 
