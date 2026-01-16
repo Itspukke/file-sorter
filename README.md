@@ -34,8 +34,11 @@ This script automates the process by detecting file extensions and moving files 
 The script currently sorts the following file types:
 
 .pdf → pdf files
+
 .png → png files
+
 .docx → docx files
+
 .xlsx → xlsx files
 
 
@@ -81,4 +84,5 @@ Files are automatically organized into folders based on their file types.
 # 👤 Author
 
 Tshedza Tshipuke
+
 Aspiring Data Analyst | Python, SQL & PowerBI Enthusiast
